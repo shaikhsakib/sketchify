@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:3:2-29
+		INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:6:2-8:31
+INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:6:2-8:31
+INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:6:2-8:31
+INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:6:2-8:31
+INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:6:2-8:31
+	android:targetSdkVersion
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:7:3-32
+		INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:8:3-28
+		INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:9:2-81
+	android:required
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:9:55-79
+	android:name
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:9:16-54
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:10:5-94
+	android:required
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:10:68-92
+	android:name
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:10:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:12:22-62
+application
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:13:2-28:16
+	android:label
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:15:3-35
+	android:icon
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:14:3-39
+	android:theme
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:16:3-56
+activity#com.abhan.example.AbhanActivity
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:17:3-27:14
+	android:screenOrientation
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:21:4-40
+	android:launchMode
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:20:4-33
+	android:windowSoftInputMode
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:22:4-51
+	android:configChanges
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:19:4-63
+	android:name
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:18:4-33
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:23:4-26:20
+action#android.intent.action.MAIN
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:24:5-57
+	android:name
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:24:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from /Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/AndroidManifest.xml:25:15-62

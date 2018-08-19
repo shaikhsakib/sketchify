@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,181,99",
+                        "endColumns": "43,55,81",
+                        "endOffsets": "94,232,176"
+                    },
+                    "to": {
+                        "startLines": "15,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "620,664,720",
+                        "endColumns": "43,55,81",
+                        "endOffsets": "659,715,797"
+                    }
+                },
+                {
+                    "source": "/Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2,5,10,7,4,9,12,8,11,13,6,3",
+                        "startColumns": "1,4,1,1,1,1,1,1,1,1,4,4",
+                        "startOffsets": "52,168,371,253,129,333,455,294,409,500,208,92",
+                        "endColumns": "36,39,37,40,35,37,44,38,45,45,47,39",
+                        "endOffsets": "87,203,407,292,163,369,498,331,453,544,251,127"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,135,176,220,259,300,348,390,439,488,536",
+                        "endColumns": "39,39,40,43,38,40,47,41,48,48,47,39",
+                        "endOffsets": "90,130,171,215,254,295,343,385,434,483,531,571"
+                    }
+                },
+                {
+                    "source": "/Users/shaikhsakib/AndroidStudioProjects/Sketch-master1/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "54",
+                        "endColumns": "40",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "576",
+                        "endColumns": "43",
+                        "endOffsets": "615"
+                    }
+                }
+            ]
+        }
+    ]
+}
